@@ -95,19 +95,20 @@ plot(t,s);
 
 Output Waveform
 
-<img width="1920" height="1200" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/d5fb366a-fbd7-4b53-964d-a65e918f5279" />
+<img width="1920" height="1200" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/390fdef8-2a93-44aa-ab36-982fc8ea6752" />
+
 
 
 
 
 TABULATION:
 
-![WhatsApp Image 2025-09-02 at 22 29 12_ad00e78f](https://github.com/user-attachments/assets/58c93c95-802e-4738-87d3-7c2db11bd795)
+![WhatsApp Image 2025-09-24 at 21 41 28_39eb4b07](https://github.com/user-attachments/assets/7d2d7d07-ee2f-41f4-88e3-0d4d7464db5e)
 
 
 Calculation
 1.	ma (Theory) = am/ac =0.5
-2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) =
+2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) =0.5
 
 
 MODEL GRAPH
